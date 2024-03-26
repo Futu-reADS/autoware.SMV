@@ -110,4 +110,4 @@ repositories:
   future_packages/ft_maps:
     type: git
     url: git@github.com:Futu-reADS/ft_maps.git
-    version: pointcloud_map
+    version: main
