@@ -111,6 +111,10 @@ repositories:
     type: git
     url: git@github.com:Futu-reADS/ft_maps.git
     version: awsim_nishishinjuku
+  future_packages/master_planner:
+    type: git
+    url: git@github.com:Futu-reADS/master_planner.git
+    version: main
   # UI
   future_packages/user_interface/smv_ui_frontend:
     type: git
