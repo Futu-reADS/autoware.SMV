@@ -111,3 +111,12 @@ repositories:
     type: git
     url: git@github.com:Futu-reADS/ft_maps.git
     version: awsim_nishishinjuku
+  # UI
+  future_packages/user_interface/smv_ui_frontend:
+    type: git
+    url: git@github.com:Futu-reADS/smv_ui_frontend.git
+    version: main
+  future_packages/user_interface/smv_bridge_backend:
+    type: git
+    url: git@github.com:Futu-reADS/smv_bridge_backend.git
+    version: main
