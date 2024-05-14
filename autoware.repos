@@ -114,18 +114,17 @@ repositories:
   future_packages/master_planner:
     type: git
     url: git@github.com:Futu-reADS/master_planner.git
-    version: main
+    version: dev/smv_ui_integration
   # UI
   future_packages/user_interface/smv_ui_frontend:
     type: git
     url: git@github.com:Futu-reADS/smv_ui_frontend.git
-    version: main
+    version: _dev_aziz/newControl2
   future_packages/user_interface/smv_bridge_backend:
     type: git
     url: git@github.com:Futu-reADS/smv_bridge_backend.git
     version: main
-  # script
   future_packages/run_autoware_script:
     type: git
     url: git@github.com:Futu-reADS/run_autoware_script.git
-    version: main
+    version: dev/liam
