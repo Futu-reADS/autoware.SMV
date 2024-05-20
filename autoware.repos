@@ -91,7 +91,7 @@ repositories:
   sensor_kit/smv_sensor_kit_launch: 
     type: git
     url: git@github.com:Futu-reADS/smv_sensor_kit_launch.git
-    version: awsim_main
+    version: smv_china
   # vehicle
   vehicle/smv_vehicle_launch:
     type: git
