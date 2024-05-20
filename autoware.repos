@@ -135,7 +135,7 @@ repositories:
   future_packages/run_autoware_script:
     type: git
     url: git@github.com:Futu-reADS/run_autoware_script.git
-    version: dev/liam
+    version: china_test_3_smv
   sensor_component/external/hesai:
     type: git
     url: git@github.com:Futu-reADS/HesaiLidar_ROS_2.0.git
